@@ -13,7 +13,7 @@ Terminal client that lets you chat with a ChatterBot from a Django management co
 ```bash
 python -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.txt or pip install django chatterbot chatterbot_corpus
 python -m spacy download en_core_web_sm
 python -m pip install pyyaml
 ```
