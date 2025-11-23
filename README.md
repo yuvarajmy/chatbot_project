@@ -40,6 +40,3 @@ user: exit
 Ending chat session. Goodbye!
 ```
 
-## Notes for submission
-- Include this code and a screenshot of a terminal chat session in your Word document.
-- Add your GitHub repository URL to the submission as required by the assignment.
